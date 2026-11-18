@@ -1,0 +1,5 @@
+{
+     "rewrites": [
+       { "source": "/", "destination": "/rizal_mock_exam_reviewer.html" }
+     ]
+   }
